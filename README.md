@@ -17,7 +17,7 @@ Para usar este sistema é necessário que você já tenha instalado na sua máqu
 
 Com o ambiente já configurado, basta fazer o clone deste repositório para dentro do seu ambiente:
 
- ```git clone https://github.com/micilini/learn-sqlite-kotlin ```
+ ```git clone https://github.com/micilini/learn-sqlite-kotlin.git```
 
  Por fim, basta abrir a pasta do projeto com o Android Studio e esperar que ele faça a sincronização dos pacotes necessários.
 
